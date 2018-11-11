@@ -1,15 +1,15 @@
 {
   "main.css": "/twitter-goweek/static/css/main.91135330.chunk.css",
-  "main.js": "/twitter-goweek/static/js/main.4e12700f.chunk.js",
-  "main.js.map": "/twitter-goweek/static/js/main.4e12700f.chunk.js.map",
-  "static/js/1.348b987d.chunk.js": "/twitter-goweek/static/js/1.348b987d.chunk.js",
-  "static/js/1.348b987d.chunk.js.map": "/twitter-goweek/static/js/1.348b987d.chunk.js.map",
+  "main.js": "/twitter-goweek/static/js/main.f3edcd92.chunk.js",
+  "main.js.map": "/twitter-goweek/static/js/main.f3edcd92.chunk.js.map",
+  "static/js/1.3d2a362e.chunk.js": "/twitter-goweek/static/js/1.3d2a362e.chunk.js",
+  "static/js/1.3d2a362e.chunk.js.map": "/twitter-goweek/static/js/1.3d2a362e.chunk.js.map",
   "runtime~main.js": "/twitter-goweek/static/js/runtime~main.b39fd395.js",
   "runtime~main.js.map": "/twitter-goweek/static/js/runtime~main.b39fd395.js.map",
   "static/css/main.91135330.chunk.css.map": "/twitter-goweek/static/css/main.91135330.chunk.css.map",
   "static/media/twitter.svg": "/twitter-goweek/static/media/twitter.7bde2a6d.svg",
   "static/media/like.svg": "/twitter-goweek/static/media/like.c71630b0.svg",
   "index.html": "/twitter-goweek/index.html",
-  "precache-manifest.a6470ffbf95d448dfa3d418a252a59cb.js": "/twitter-goweek/precache-manifest.a6470ffbf95d448dfa3d418a252a59cb.js",
+  "precache-manifest.7bc10503c1a9143da40bacc31a0915e1.js": "/twitter-goweek/precache-manifest.7bc10503c1a9143da40bacc31a0915e1.js",
   "service-worker.js": "/twitter-goweek/service-worker.js"
 }
