@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/twitter-goweek/precache-manifest.4f9b5e7be3122905fd1f88e5c3429f0d.js"
+  "/twitter-goweek/precache-manifest.a6470ffbf95d448dfa3d418a252a59cb.js"
 );
 
 workbox.clientsClaim();

@@ -12,19 +12,19 @@ self.__precacheManifest = [
     "url": "/twitter-goweek/static/js/runtime~main.b39fd395.js"
   },
   {
-    "revision": "73b2ab41a9c11c2e2fa6",
-    "url": "/twitter-goweek/static/js/main.73b2ab41.chunk.js"
+    "revision": "4e12700f3a1bee48e628",
+    "url": "/twitter-goweek/static/js/main.4e12700f.chunk.js"
   },
   {
     "revision": "348b987d1213ca42fe0f",
     "url": "/twitter-goweek/static/js/1.348b987d.chunk.js"
   },
   {
-    "revision": "73b2ab41a9c11c2e2fa6",
+    "revision": "4e12700f3a1bee48e628",
     "url": "/twitter-goweek/static/css/main.91135330.chunk.css"
   },
   {
-    "revision": "93179d7a756c8eddbfb4a4d10edf89a0",
+    "revision": "8966118bd0e20c65efb136943cc1f4bc",
     "url": "/twitter-goweek/index.html"
   }
 ];
