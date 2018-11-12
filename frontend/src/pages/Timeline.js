@@ -25,10 +25,10 @@ export default class Timeline extends Component {
     }
 
     subscribeToEvents = () => {
-        const io = socket('http://localhost:3000');
+        const io = socket('https://twitter-goweek.herokuapp.com/');
 
         io.on('tweet', data => {
-            this.setState({ tweets: [data, ... this.state.tweets]});
+            this.setState({ tweets: [data, ...this.state.tweets]});
         });
 
         io.on('like', data => {
@@ -38,7 +38,7 @@ export default class Timeline extends Component {
         });
     }
     handleNewTweet = async e => {
-        if (e.keyCode != 13) return;
+        if (e.keyCode !== 13) return;
 
         const content = this.state.newTweet;
         const author = localStorage.getItem('@GoTwitter:username');

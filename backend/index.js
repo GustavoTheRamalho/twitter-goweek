@@ -1,7 +1,7 @@
 const express = require('express');
 const mongoose = require('mongoose');
 const cors = require('cors');
-
+const PORT = process.env.PORT || 5000;
 const app = express();
 
 const server = require('http').Server(app);
@@ -20,8 +20,8 @@ app.use((req, res, next) => {
 });
 app.use(cors());
 app.use(express.json());
-app.use(require('./routes'));
+app.use(require('./src/routes'));
 
-server.listen(3000, () => {
-    console.log ('kk server started on port 3000');
+server.listen(PORT, () => {
+    console.log ('kk server started on port ' + PORT);
 });
